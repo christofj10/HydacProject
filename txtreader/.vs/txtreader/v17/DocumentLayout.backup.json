@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\txtreader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BC8B5D-3AE8-47B4-A0E1-20FC6F2063C4}|txtreader\\txthandler.csproj|c:\\users\\chris\\source\\repos\\txtreader\\txtreader\\fileoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BC8B5D-3AE8-47B4-A0E1-20FC6F2063C4}|txtreader\\txthandler.csproj|solutionrelative:txtreader\\fileoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BC8B5D-3AE8-47B4-A0E1-20FC6F2063C4}|txtreader\\txtreader.csproj|c:\\users\\chris\\source\\repos\\txtreader\\txtreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BC8B5D-3AE8-47B4-A0E1-20FC6F2063C4}|txtreader\\txtreader.csproj|solutionrelative:txtreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileOperations.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\txtreader\\txtreader\\FileOperations.cs",
+              "RelativeDocumentMoniker": "txtreader\\FileOperations.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\txtreader\\txtreader\\FileOperations.cs",
+              "RelativeToolTip": "txtreader\\FileOperations.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:54:57.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\txtreader\\txtreader\\Program.cs",
+              "RelativeDocumentMoniker": "txtreader\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\txtreader\\txtreader\\Program.cs",
+              "RelativeToolTip": "txtreader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:10:00.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

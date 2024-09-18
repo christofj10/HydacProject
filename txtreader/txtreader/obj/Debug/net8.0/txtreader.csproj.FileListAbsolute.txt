@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txtreader.exe
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txtreader.deps.json
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txtreader.runtimeconfig.json
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txtreader.dll
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txtreader.pdb
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.AssemblyInfo.cs
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.dll
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\refint\txtreader.dll
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.pdb
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txtreader.genruntimeconfig.cache
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\ref\txtreader.dll

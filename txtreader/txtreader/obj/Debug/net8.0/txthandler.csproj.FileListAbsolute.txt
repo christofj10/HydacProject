@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.AssemblyInfo.cs
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txthandler.exe
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txthandler.deps.json
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txthandler.runtimeconfig.json
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txthandler.dll
+C:\Users\chris\source\repos\txtreader\txtreader\bin\Debug\net8.0\txthandler.pdb
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.dll
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\refint\txthandler.dll
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.pdb
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\txthandler.genruntimeconfig.cache
+C:\Users\chris\source\repos\txtreader\txtreader\obj\Debug\net8.0\ref\txthandler.dll

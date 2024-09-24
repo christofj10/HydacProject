@@ -1,0 +1,14 @@
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\bin\Debug\net8.0\KommeGaa.exe
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\bin\Debug\net8.0\KommeGaa.deps.json
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\bin\Debug\net8.0\KommeGaa.runtimeconfig.json
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\bin\Debug\net8.0\KommeGaa.dll
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\bin\Debug\net8.0\KommeGaa.pdb
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.dll
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\refint\KommeGaa.dll
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.pdb
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\KommeGaa.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Skrivebord\Datamatiker\Projekter\SkoleProjekter\KommeGaa\KommeGaa\obj\Debug\net8.0\ref\KommeGaa.dll
